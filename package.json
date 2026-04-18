@@ -1,6 +1,6 @@
 {
   "name": "mma-plugin-modules",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "MagicMirror Admin Plugin - Modules",
   "main": "src/index.js",
   "scripts": {

@@ -1,12 +1,17 @@
 {
   "name": "mma-plugin-modules",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MagicMirror Admin Plugin - Modules",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["magicmirror", "admin", "plugin", "modules"],
+  "keywords": [
+    "magicmirror",
+    "admin",
+    "plugin",
+    "modules"
+  ],
   "author": "",
   "license": "ISC"
 }
